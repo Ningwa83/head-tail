@@ -111,15 +111,15 @@ function updateScore()
 	{
 	if(score.wins >= 6)
 	{
-	alert('Dipawalima Ningwa sanga BBQ jane ');
+	alert('congrats baby! you won first prize and became lucky winner to have dinner with ningwa😉 ');
 	}
 	else if(score.wins >= 4 && score.wins < 6)
 	{
-	alert('Dipawalima Ningwa le pakako pulau ra sungur ko khutta ko achar khane abasar paunu bhayo');
+	alert('congrats baby! you won second prize and became a winner of opportunity to have coffee with ningwa😁');
 	}
 	else if(score.wins < 4)
 	{
-	alert('Dipawaliko Subhakamana!');
+	alert('not your day, baby!');
 	}
 	resetScore();
 	}
