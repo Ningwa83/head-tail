@@ -111,11 +111,11 @@ function updateScore()
 	{
 	if(score.wins >= 6)
 	{
-	alert('congrats baby! you won first prize and became lucky winner to have dinner with ningwa😉 ');
+	alert('congrats baby! you won first prize and became lucky winner of dinner🍲🥘 with ningwa😉 ');
 	}
 	else if(score.wins >= 4 && score.wins < 6)
 	{
-	alert('congrats baby! you won second prize and became a winner of opportunity to have coffee with ningwa😁');
+	alert('congrats baby! you won second prize and became a winner of coffee☕️☕️ with ningwa😁');
 	}
 	else if(score.wins < 4)
 	{
